@@ -1,0 +1,72 @@
+/* Food.css */
+
+/* General body styling */
+body{
+    background-color:white;
+    font-family: 'Roboto', sans-serif;
+    /* background-image:url(" https://i.pinimg.com/originals/91/39/77/913977ac772225ed16ffa8d63e540214.jpg"); */
+}
+
+/* Container styling */
+#NL{
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-image:url(" https://i.pinimg.com/originals/91/39/77/913977ac772225ed16ffa8d63e540214.jpg");
+}
+
+/* Header styling */
+h1 {
+    color: #343a40;
+    font-size: 2.5rem;
+}
+
+/* Button styling for search and category selection */
+.btn-outline-secondary {
+    border-color: #6c757d;
+    color: #6c757d;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+/* Card styling */
+.card {
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.card-img-top {
+    border-radius: 0.5rem;
+    object-fit: cover;
+}
+
+.card-body {
+    background-color: #fff;
+    padding: 15px;
+}
+
+/* Input field styling */
+.form-control {
+    border-color: #975ea5;
+    border-radius: 0.5rem;
+    box-shadow: none;
+}
+
+/* Category button styling */
+.btn-outline-primary {
+    border-color: #007bff;
+    color: #007bff;
+}
+
+.btn-outline-primary:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}

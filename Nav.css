@@ -1,0 +1,87 @@
+.a{
+       
+    text-decoration:none;
+    color:black;
+  }
+ 
+  .d{
+    background-color:yellow;
+   
+  }
+  #j{
+    color: yellow;
+  }
+  .custom-navbar {
+    padding: 1.5rem 2rem;
+ 
+  }
+ 
+  .custom-navbar .navbar-brand img {
+    height: 100px;
+ 
+   
+  }
+  #tt{
+    border-radius: 50%;
+  }
+  #oo{
+    background-color: rgb(154, 120, 187);
+  }
+ 
+  .custom-navbar .nav-link {
+    font-size: 1.25rem;
+  }
+ 
+  .custom-navbar .navbar-toggler {
+    padding: 0.5rem;
+  }
+  .carousel-img {
+    height: 400px;
+    object-fit: cover;
+  }
+ 
+  .img-fluid{
+    width: 100px ;
+    height: 100px;
+    border-radius: 50%;
+  }
+ 
+.dropdown-menu {
+  background-color: #66b3ff;
+}
+ 
+ 
+.dropdown-menu a {
+  color:rgb(179, 67, 86);
+  font-family: "Playwrite HR Lijeva", cursive;
+  font-size: 20px;
+  background-color: whitesmoke;
+  text-align: center;
+ 
+}
+ 
+ 
+.dropdown-menu a:hover {
+  color: #000;
+  text-decoration: none;
+}
+/* Nav.css */
+ 
+/* Adjust navbar brand alignment */
+.navbar-brand img {
+  max-height: 100px; /* Example maximum height for the logo */
+  margin-top: 5px; /* Example margin adjustment */
+}
+ 
+/* Adjust navbar items alignment */
+.navbar-nav {
+  align-items: center; /* Example alignment */
+}
+ 
+/* Optionally, adjust dropdown menu alignment */
+.dropdown-menu {
+  top: 100%; /* Example dropdown menu position */
+}
+ 
+ 
+ 

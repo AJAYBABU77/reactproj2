@@ -1,0 +1,34 @@
+#main{
+    background-image:url('./images/purple-sky.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+   }
+  #BU{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: text shadow for better readability */
+  }
+   
+  .weather-card {
+    background-color:rgb(212, 113, 130); /* Example background color for weather cards */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+   
+  .weather-card h4 {
+    margin-bottom: 10px;
+  }
+  #G{
+    color: white;
+  }
+  h4{
+    color: white;
+  }
+  #QQ{
+    color: white;
+  }
+
+   

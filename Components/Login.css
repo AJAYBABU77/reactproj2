@@ -1,0 +1,57 @@
+/* Login.css */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.main {
+  background: url('https://th.bing.com/th/id/R.ae30dd32acb33d34de9061d3c7ae5363?rik=3nwUphR45UgvRQ&riu=http%3a%2f%2fwallpaperswide.com%2fdownload%2faero_stream_dark_blue-wallpaper-2304x720.jpg&ehk=oa2pYHB5ROhCweAgx2%2f0tMcLBk4eBpAx8Dvb%2f%2fiXEAY%3d&risl=&pid=ImgRaw&r=0') no-repeat center center fixed; 
+  background-size: cover;
+  min-height: 100vh; /* Ensure the background covers the viewport height */
+  display: flex;
+  align-items: center; /* Center the content vertically */
+  justify-content: center; /* Center the content horizontally */
+}
+
+#EE {
+  color: white;
+  text-align: left;
+  font-family:"Edu AU VIC WA NT Hand", cursive;
+
+}
+
+#GH {
+  color: white;
+  font-family:"Edu AU VIC WA NT Hand", cursive;
+}
+
+.btn-warning {
+  background-color: #f0ad4e;
+  border-color: #eea236;
+}
+
+.form {
+  max-width: 500px;
+  width: 100%;
+}
+
+.text-dark {
+  color: #343a40;
+}
+
+.text-warning {
+  color: #ffc107;
+  
+}
+
+.text-info {
+  color: #17a2b8;
+}
+
+a {
+  text-decoration: none;
+}

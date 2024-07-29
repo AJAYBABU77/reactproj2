@@ -1,0 +1,24 @@
+.container-page {
+    padding: 20px;
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+    border-radius: 20%;
+  }
+  
+  .description {
+    flex: 1;
+    color: rgb(255, 14, 195);
+    font-weight: bolder;
+    font-family: "Dancing Script", cursive ;
+  }
+  #PL{
+    color: black;
+    font-family:  "Dancing Script", cursive;
+  }
+  #KS{
+    color: blue;
+  }
+ 
